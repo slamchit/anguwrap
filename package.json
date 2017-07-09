@@ -1,0 +1,30 @@
+{
+  "name": "anguwrap",
+  "version": "1.0.0",
+  "description": "This is going to be my first project based on docker and angular together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slamchit/anguwrap.git"
+  },
+  "keywords": [
+    "Angular",
+    "Docker",
+    "Node"
+  ],
+  "author": "Kaila, Sukhwinder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slamchit/anguwrap/issues"
+  },
+  "homepage": "https://github.com/slamchit/anguwrap#readme",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "errorhandler": "^1.5.0",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
